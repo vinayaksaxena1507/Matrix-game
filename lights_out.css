@@ -1,0 +1,15 @@
+body {
+    margin: 40px;
+  }
+  
+  .wrapper {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+  }
+  
+  .box {
+    background-color: blue;
+    padding: 50px;
+    border: 2px solid black;
+
+  }
